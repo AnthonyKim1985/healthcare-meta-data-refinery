@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/refinery.iml" filepath="$PROJECT_DIR$/.idea/modules/refinery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/refinery_main.iml" filepath="$PROJECT_DIR$/.idea/modules/refinery_main.iml" group="refinery" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/refinery_test.iml" filepath="$PROJECT_DIR$/.idea/modules/refinery_test.iml" group="refinery" />
+    </modules>
+  </component>
+</project>
